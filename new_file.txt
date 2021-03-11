@@ -1,2 +1,3 @@
 test
 1st modified(local)
+2nd modified(remote)
