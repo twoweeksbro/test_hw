@@ -1,3 +1,6 @@
 test
 1st modified(local)
 2nd modified(remote)
+
+branch_1 : 1st
+branch_1 : 2nd
