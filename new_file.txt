@@ -4,3 +4,6 @@ test
 
 branch_1 : 1st
 branch_1 : 2nd
+
+branch_2 : 1st
+branch_2 : 2nd
